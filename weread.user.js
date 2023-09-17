@@ -7,7 +7,7 @@
 // @author      @todd
 // @description 2023/9/13 20:49:59
 // @homepageURL https://github.com/srk24/UserScript/blob/main/weread.user.js
-// @@downloadURL https://github.com/srk24/UserScript/raw/main/weread.user.js
+// @downloadURL https://github.com/srk24/UserScript/raw/main/weread.user.js
 // ==/UserScript==
 
 GM_addStyle("*{font-family: serif !important;}");
