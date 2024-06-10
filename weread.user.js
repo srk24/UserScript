@@ -5,9 +5,9 @@
 // @grant       GM_addStyle
 // @version     0.1.0
 // @author      @todd
-// @description 2023/9/13 20:49:59
 // @homepageURL https://github.com/srk24/UserScript/blob/main/weread.user.js
 // @downloadURL https://github.com/srk24/UserScript/raw/main/weread.user.js
+// @updateURL https://github.com/srk24/UserScript/raw/main/weread.user.js
 // ==/UserScript==
 
-GM_addStyle(".readerChapterContent{font-family: serif !important;font-weight: 600 !important;}");
+GM_addStyle(".readerChapterContent{font-family: serif !important;font-weight: 500 !important;}");
