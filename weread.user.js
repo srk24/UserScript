@@ -10,5 +10,4 @@
 // @downloadURL https://github.com/srk24/UserScript/raw/main/weread.user.js
 // ==/UserScript==
 
-GM_addStyle("*{font-family: serif !important;}");
-GM_addStyle(".readerChapterContent{font-weight: 500 !important;}");
+GM_addStyle(".readerChapterContent{font-family: serif !important;font-weight: 600 !important;}");
